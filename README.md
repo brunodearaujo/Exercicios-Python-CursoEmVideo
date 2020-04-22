@@ -7,3 +7,5 @@
     * Em andamento
 - [ ] Mundo 2
 - [ ] Mundo 3
+---
+* Observação: Tem exercícios que eu atualizei com base no meu conhecimento atual, se você é iniciante e está vendo isso e pensando, nossa eu não sabia isso na época, esse é o motivo.

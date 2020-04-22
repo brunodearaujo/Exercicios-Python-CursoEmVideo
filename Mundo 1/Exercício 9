@@ -1,0 +1,22 @@
+#Exercício Python 009: Faça um programa que leia um número Inteiro qualquer e mostre na tela a sua tabuada.
+n1 = int(input('Digite um valor para saber sua tabuada.'))
+x1 = n1*1
+x2 = n1*2
+x3 = n1*3
+x4 = n1*4
+x5 = n1*5
+x6 = n1*6
+x7 = n1*7
+x8 = n1*8
+x9 = n1*9
+x10 = n1*10
+print (f'1 x {n1} = {x1} ')
+print (f'2 x {n1} = {x2}')
+print (f'3 x {n1} = {x3}')
+print (f'4 x {n1} = {x4}')
+print (f'5 x {n1} = {x5}')
+print (f'6 x {n1} = {x6}')
+print (f'7 x {n1} = {x7}')
+print (f'8 x {n1} = {x8}')
+print (f'9 x {n1} = {x9}')
+print (f'10 x {n1} = {x10}')
